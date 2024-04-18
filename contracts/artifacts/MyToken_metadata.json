@@ -373,11 +373,6 @@
 						"internalType": "address",
 						"name": "to",
 						"type": "address"
-					},
-					{
-						"internalType": "uint256",
-						"name": "tokenId",
-						"type": "uint256"
 					}
 				],
 				"name": "safeMint",
@@ -805,11 +800,11 @@
 			]
 		},
 		"contracts/MyToken.sol": {
-			"keccak256": "0xc4284bbbb057d37e38a946085234c3bccf8630421497041ecfe4ea113f6109f6",
+			"keccak256": "0x4eaec4e319196ee4f7f7df6da9938eca1f9943710112ff7e61d1e0326cbab3b6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8c65eaaec9899f312aa05b2791800af0e3a942e53f5284d7a758ba887b04c4b6",
-				"dweb:/ipfs/QmPBXVFSRurX5rTVz3gMX3pjEXcASAAX3H6yTrWtuZP4ay"
+				"bzz-raw://a298ebc1cfc75505da815a322d9f2382c1502e89c1a1e875d14faf9b68e45b52",
+				"dweb:/ipfs/QmZV3d889TbvV6fG7LECYSmA8dQHpa9v96XCzCew3j7Lhm"
 			]
 		}
 	},
